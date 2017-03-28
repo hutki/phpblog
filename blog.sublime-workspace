@@ -1,0 +1,1227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text"
+			],
+			[
+				"meta",
+				"meta_d"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"m",
+				"method\tAttr"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"l",
+				"label"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"me",
+				"meta_k"
+			],
+			[
+				"el",
+				"else\t(add_lesson.php)"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"met",
+				"meta_k"
+			],
+			[
+				"de",
+				"description\t(new_lesson.php)"
+			],
+			[
+				"i",
+				"if\tif …"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"ve",
+				"v_rotate"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"vie",
+				"view_title\t(style.css)"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"lesson_",
+				"lesson_name\t(style.css)"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"my",
+				"myrow"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"in",
+				"incl\tinclude …"
+			],
+			[
+				"php",
+				"phpsite"
+			],
+			[
+				"mysq_s",
+				"mysql_select_db"
+			],
+			[
+				"ms",
+				"msession_connect"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"la",
+				"lastname\t(mysql_insert.php)"
+			],
+			[
+				"d",
+				"dol"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"pr",
+				"printf"
+			],
+			[
+				"mysql_",
+				"mysql_connect"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"li",
+				"list"
+			],
+			[
+				"ca",
+				"capital"
+			],
+			[
+				"ч",
+				"чисел\t(while.php)"
+			],
+			[
+				"out",
+				"outline-offset"
+			],
+			[
+				"bu",
+				"buch_usl\t(prajs_table.html)"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"tab",
+				"tab_usl\t(prajs_table.html)"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"sea",
+				"search_menu\t(app.js)"
+			],
+			[
+				"di",
+				"display\t(_981.scss)"
+			],
+			[
+				"remove",
+				"removeAttr"
+			],
+			[
+				"s",
+				"search"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"im",
+				"img_right\t(content.html)"
+			],
+			[
+				"img",
+				"img_left\t(content.html)"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"f_",
+				"f_add\t(_footer.scss)"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"foo",
+				"footer-block\t(_footer.scss)"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-size\t(_header.scss)"
+			],
+			[
+				"wi",
+				"width\t(_header.scss)"
+			],
+			[
+				"cen",
+				"centr_block\t(header.html)"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"mo",
+				"mouseleave"
+			],
+			[
+				"sl",
+				"slideDown\t(symix.js)"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"filt",
+				"filtText"
+			],
+			[
+				"is",
+				"isSelected"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"o",
+				"option\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 252,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/vit/www/ukpwp.loc/wp-content/themes/reverie-master/sidebar.php",
+			"settings":
+			{
+				"buffer_size": 1343,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/vit/www/ukpwp.loc/wp-content/themes/reverie-master/sidebar-home.php",
+			"settings":
+			{
+				"buffer_size": 1761,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 372.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"quick",
+				"AutoFileName: Quick Settings"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git a",
+				"Git: Add..."
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git ",
+				"Git: Log All"
+			],
+			[
+				"git remote a",
+				"Git: Track Remote Branch"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: SCSS",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"Package Control:scss",
+				"Package Control: Satisfy Dependencies"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 51.0,
+		"history":
+		[
+			"git",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/vit/www/phpblog"
+	],
+	"file_history":
+	[
+		"/home/vit/www/phpblog/index.php",
+		"/home/vit/www/phpsite.loc/admin/edit_lesson.php",
+		"/home/vit/www/phpsite.loc/admin/new_lesson.php",
+		"/home/vit/www/phpsite.loc/admin/lock.php",
+		"/home/vit/www/phpsite.loc/admin/blocks/bd.php",
+		"/home/vit/www/phpsite.loc/admin/update_lesson.php",
+		"/home/vit/www/phpsite.loc/admin/update_text.php",
+		"/home/vit/www/phpsite.loc/admin/edit_text.php",
+		"/home/vit/www/phpsite.loc/admin/drop_lesson.php",
+		"/home/vit/www/phpsite.loc/admin/del_lesson.php",
+		"/home/vit/www/phpsite.loc/admin/add_lesson.php",
+		"/home/vit/www/ukpwp.loc/wp-content/themes/reverie-master/contacts.php",
+		"/home/vit/www/phpsite.loc/admin/blocks/lefttd.php",
+		"/home/vit/www/phpsite.loc/admin/index.php",
+		"/home/vit/www/test.loc/msql_delete.php",
+		"/home/vit/www/phpsite.loc/.git/COMMIT_EDITMSG",
+		"/home/vit/www/phpsite.loc/lessons.php",
+		"/home/vit/www/phpsite.loc/index.php",
+		"/home/vit/www/phpsite.loc/view_articles.php",
+		"/home/vit/www/phpsite.loc/articles.php",
+		"/home/vit/www/phpsite.loc/view_lesson.php",
+		"/home/vit/www/ukpwp.loc/wp-content/themes/Бэкап 4.07/connection.php",
+		"/home/vit/www/ukpwp.loc/wp-content/themes/reverie-master/scss/style.scss",
+		"/home/vit/www/phpsite.loc/style.css",
+		"/home/vit/www/ukpwp.loc/wp-content/themes/Бэкап 4.07/config.php",
+		"/home/vit/www/ukpwp.loc/wp-content/themes/reverie-master/home.php",
+		"/home/vit/www/phpsite.loc/lesson_template.php",
+		"/home/vit/www/ukpwp.loc/wp-content/themes/reverie-master/sidebar-home.php",
+		"/home/vit/www/ukpwp.loc/wp-content/themes/reverie-master/sidebar.php",
+		"/home/vit/www/phpsite.loc/contacts.php",
+		"/home/vit/www/phpsite.loc/blocks/bd.php",
+		"/home/vit/www/phpsite.loc/blocks/bdphp",
+		"/home/vit/www/phpsite.loc/blocks/header.php",
+		"/home/vit/www/phpsite.loc/blocks/lefttd.php",
+		"/home/vit/www/phpsite.loc/blocks/footer.php",
+		"/home/vit/www/phpsite.loc/lefttd.php",
+		"/media/vit/phpsql/adds/sitecreate/lock/lock.php",
+		"/media/vit/phpsql/adds/sitecreate/maintext.txt",
+		"/home/vit/www/test.loc/mysql_form.php",
+		"/home/vit/www/test.loc/mysql_form",
+		"/home/vit/www/test.loc/include.php",
+		"/home/vit/www/test.loc/msql.php",
+		"/home/vit/www/test.loc/include2.php",
+		"/home/vit/www/test.loc/server.php",
+		"/home/vit/www/test.loc/post2.php",
+		"/home/vit/www/test.loc/post.php",
+		"/home/vit/www/test.loc/get.php",
+		"/home/vit/www/test.loc/isset.php",
+		"/home/vit/www/test.loc/date.php",
+		"/home/vit/www/test.loc/list.php",
+		"/home/vit/www/test.loc/php_function.php",
+		"/home/vit/www/test.loc/function.php",
+		"/home/vit/www/test.loc/php_function.html",
+		"/home/vit/www/test.loc/README.md",
+		"/home/vit/www/js_udacity/frontend-nanodegree-resume/index.html",
+		"/home/vit/www/js_udacity/frontend-nanodegree-resume/js/resumeBuilder.js",
+		"/home/vit/www/test.loc/gulpfile.js",
+		"/home/vit/www/Регистрал/src/index.html",
+		"/home/vit/www/test.loc/array.php",
+		"/home/vit/www/test.loc/array2.php",
+		"/home/vit/www/Регистрал/gulpfile.js",
+		"/home/vit/www/test.loc/massive.php",
+		"/home/vit/www/test.loc/while.php",
+		"/home/vit/www/test.loc/switch.php",
+		"/home/vit/www/test.loc/if.php",
+		"/home/vit/www/test.loc/for.php",
+		"/home/vit/Видео/lesson1/index.html",
+		"/home/vit/www/js_udacity/frontend-nanodegree-resume/js/helper.js",
+		"/usr/share/mime/packages/freedesktop.org.xml",
+		"/media/vit/phpsql/theory/lesson1/index.html",
+		"/home/vit/www/frontend-nanodegree-resume/bs-config.js",
+		"/home/vit/www/Эталон/src/style/style.scss",
+		"/home/vit/Изображения/resize.php",
+		"/home/vit/www/Времянка/style.css",
+		"/home/vit/www/Регистрал/src/js/partials/app.js",
+		"/home/vit/www/Времянка/script.js",
+		"/home/vit/www/yandex_2973dcdcff1b5e16.html",
+		"/home/vit/www/БЭКАП/style.css",
+		"/home/vit/www/Времянка/ajaxResult.tpl.html",
+		"/home/vit/www/Времянка/ajaxGrpResult.tpl.html",
+		"/home/vit/www/БЭКАП/input1.tpl.html",
+		"/home/vit/www/Времянка/paging0.tpl.html",
+		"/home/vit/www/Времянка/russian-UTF8.inc.php",
+		"/home/vit/www/Регистрал/src/style/partials/_content.scss",
+		"/home/vit/www/БЭКАП/readme.txt",
+		"/home/vit/www/Эталон/src/style/partials/_content.scss",
+		"/home/vit/Загрузки/ddGetMultipleField.php",
+		"/home/vit/www/modx.loc/manager/includes/config.inc.php",
+		"/home/vit/www/modx.loc/index.php",
+		"/home/vit/www/modx.loc/assets/plugins/managermanager/widgets/ddmultiplefields/index.html",
+		"/home/vit/www/Регистрал/src/template/header.html",
+		"/home/vit/www/Регистрал/src/template/prajs_table.html",
+		"/home/vit/www/Регистрал/src/style/partials/_header.scss",
+		"/home/vit/www/ukpwp.loc/wp-content/themes/reverie-master/bower.json",
+		"/home/vit/Загрузки/Регистрал ДБ/modx_site_content.sql",
+		"/home/vit/Документы/Титул 2017.html",
+		"/home/vit/Документы/.~lock.Титул 2017.html#",
+		"/usr/bin/mintupgrade",
+		"/home/vit/Рабочий стол/table.html",
+		"/home/vit/www/Регистрал/src/style/partials/_410.scss",
+		"/home/vit/www/Регистрал/src/style/partials/_320.scss",
+		"/home/vit/www/Регистрал/src/style/partials/_610.scss",
+		"/home/vit/www/Регистрал/src/style/partials/_981.scss",
+		"/home/vit/www/Регистрал/build/js/script.js",
+		"/home/vit/www/Регистрал/build/css/style.css",
+		"/home/vit/www/Регистрал/build/js/main.js",
+		"/home/vit/www/Времянка/service/symix.eform/tpl/default.html",
+		"/home/vit/www/Регистрал/default.html",
+		"/home/vit/www/Времянка/service/symix.eform/jquery.inputmask.js",
+		"/home/vit/www/Времянка/service/symix.eform/symix.eform.js",
+		"/home/vit/www/Регистрал/src/js/main.js",
+		"/home/vit/www/Регистрал/script.php",
+		"/home/vit/www/Времянка/symix.eform.js",
+		"/home/vit/www/Регистрал/.git/MERGE_MSG",
+		"/home/vit/www/Времянка/jquery.selectbox.js",
+		"/home/vit/www/Регистрал/bild/css/style.css",
+		"/home/vit/www/Регистрал/build/css/main.css",
+		"/home/vit/Загрузки/Бэкап базы от 22.12/Для пересылки/error_log",
+		"/home/vit/Загрузки/Бэкап базы от 22.12/Для пересылки/include/contacts.php",
+		"/home/vit/Загрузки/Бэкап базы от 22.12/Для пересылки/contacts.php",
+		"/home/vit/Загрузки/Бэкап базы от 22.12/contacts.php",
+		"/home/vit/Загрузки/Бэкап базы от 22.12/Для пересылки/include/connection.php",
+		"/home/vit/Загрузки/Бэкап базы от 22.12/Для пересылки/include/error_log",
+		"/home/vit/Загрузки/Бэкап базы от 22.12/Для пересылки/include/config.php",
+		"/home/vit/Загрузки/Бэкап базы от 22.12/Для пересылки/connection.php",
+		"/home/vit/Загрузки/Бэкап базы от 22.12/Для пересылки/include/wp-config.php",
+		"/home/vit/Загрузки/Бэкап базы от 22.12/Для пересылки/include/connection (1).php",
+		"/home/vit/Загрузки/Бэкап базы от 22.12/Для пересылки/include/createtable.sql"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_GET",
+			"_POST",
+			" width=\"133\" height=\"27\"",
+			" width=\"133\" height=\"28\"",
+			" width=\"139\"",
+			" width=\"173\"",
+			" width=\"184\"",
+			"</span></span></p>",
+			"<p class=\"western\" align=\"center\"><span style=\"font-family: 'Times New Roman', serif;\"><span style=\"font-size: large;\">",
+			" valign=\"top\"",
+			"<p>",
+			" width",
+			" width=\"301\"",
+			" width=\"40\"",
+			" width=\"299\"",
+			" width=\"42\"",
+			" width=\"959\"",
+			" width=\"51\"",
+			" width=\"43\"",
+			" width=\"62\"",
+			" width=\"52\"",
+			" width=\"33\"",
+			" width=\"307\"",
+			" height=\"193\"",
+			"height=\"193\"",
+			"valign=\"top\" ",
+			"align=\"top\" ",
+			"valign=\"bottom\" ",
+			" valign=\"bottom\"",
+			"<span style=\"color: #000000;\">",
+			"</p>",
+			"<p align=\"center\">",
+			" class=\"western\"",
+			"</span>",
+			"<span style=\"font-size: medium;\">",
+			"</span>",
+			" <span style=\"font-size: medium;\">",
+			"<p align=\"justify\">",
+			"<p ",
+			"</p>",
+			"<p>",
+			"<tr>\n<td colspan=\"2\">1</td>\n<td colspan=\"2\">2</td>\n<td>3</td>\n<td>4</td>\n</tr>",
+			" class=\"western\"",
+			" valign=\"top\"",
+			" width=\"517\"",
+			" width=\"39\"",
+			" width=\"571\"",
+			" valign=\"top\" width=\"948\"",
+			" width=\"165\"",
+			" width=\"185\"",
+			"\"\"",
+			" width=\"517",
+			" width=\"39\"",
+			" width=\"948\"",
+			" width=\"571\"",
+			"class=\"western\"",
+			" width=\"185\"",
+			" width=\"165",
+			" width=\"508\"",
+			" width=\"49\"",
+			"</span>",
+			"<span style=\"font-size: medium;\">",
+			" class=\"western\" align=\"center\"",
+			"author",
+			"<mime-type type=\"application/x-shockwave-flash\"> ",
+			"<mime-type type=\"application/vnd.adobe.flash.movie\"> ",
+			"Isaac",
+			"index",
+			"#line",
+			"last",
+			"num",
+			"</span>",
+			"<br style=\"color: #000000; font-family: Arial, Tahoma, Verdana, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20.8px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;\">",
+			"<br style=\"color: #000000; font-family: Arial, Tahoma, Verdana, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20.8px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;\">Д",
+			"<span style=\"color: #000000; font-family: Arial, Tahoma, Verdana, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20.8px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: #ffffff;\">",
+			"0",
+			"#003366",
+			"#3366ff",
+			"#0088cf",
+			"#087ad5",
+			"#000080",
+			"#034ddc",
+			"#057ec8",
+			"after",
+			"mob_menu",
+			"123",
+			"wrap",
+			"wrap-t",
+			"dbname",
+			"'].;\n",
+			"send",
+			"line",
+			"#m_menu_mob",
+			"itm",
+			";\n",
+			"max-width",
+			"Gotham",
+			"width",
+			"1066",
+			"menu",
+			";\n",
+			"color",
+			"active",
+			"webkit-input-placeholder",
+			"content",
+			"body",
+			"price ",
+			"#contakts_page, #callback",
+			"clearfix",
+			"url",
+			"list.png",
+			"url",
+			"1060",
+			"1024",
+			"Меню",
+			"menu",
+			"product",
+			"line",
+			"im\n",
+			"product\n",
+			"products\n",
+			"product\n",
+			";\n",
+			"line",
+			"useminPrepare",
+			"login-btn",
+			"reserve-btn",
+			"close"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_POST",
+			"_GET",
+			"",
+			"\"",
+			"",
+			"index",
+			"",
+			"#004284",
+			"#034ddc"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"colorcode": true,
+							"git_gutter_enabled": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/vit/www/ukpwp.loc/wp-content/themes/reverie-master/sidebar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								851,
+								851
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"colorcode": true,
+							"git_gutter_enabled": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/vit/www/ukpwp.loc/wp-content/themes/reverie-master/sidebar-home.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1313,
+								1313
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1452,
+										1459
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1314,
+										1321
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"colorcode": true,
+							"git_gutter_enabled": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 46.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 27.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"csscomb",
+				"node_modules/gulp-clean-css/node_modules/gulp-util/lib/combine.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Документы/Проекты sublime text/ukp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 308.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

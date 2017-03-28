@@ -8,20 +8,26 @@
       <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <table class="main_border" align="center">
+    <table class="main_border" align="center" cellpadding="0"  cellspacing="0">
     	<tr>
-	    	<td>
-	    		Привет
+	    	<td class="header">
+	    		
 	    	</td>
     	</tr>
     	<tr>
-	    	<td>
-	    		Привет
+	    	<td valign="top">
+	    		<table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td width="182px" class="left" valign="top"></td>
+                    <td></td>
+                </tr>
+
+                </table>
 	    	</td>
     	</tr>
     	<tr>
-	    	<td>
-	    		Привет
+	    	<td class="footer">
+	    		
 	    	</td>
     	</tr>
     </table>

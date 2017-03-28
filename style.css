@@ -6,3 +6,21 @@ table
 {
 	border:1px solid #000;
 }
+.header
+{
+	width: 690px;
+	height: 100px;
+	background: url(img/header.jpg);
+}
+.left
+{
+	background-color: #f6f6f6;
+	border-right: 1px solid #424242;
+}
+
+.footer
+{
+	width: 690px;
+	height: 20px;
+	background: url(img/footer.jpg);
+}

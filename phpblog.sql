@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 4.5.2
+-- version 4.5.0.2
 -- http://www.phpmyadmin.net
 --
 -- Хост: localhost
--- Время создания: Мар 29 2017 г., 21:20
--- Версия сервера: 10.1.9-MariaDB
--- Версия PHP: 7.0.1
+-- Время создания: Мар 31 2017 г., 14:01
+-- Версия сервера: 10.0.17-MariaDB
+-- Версия PHP: 5.6.14
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -28,17 +28,20 @@ SET time_zone = "+00:00";
 
 CREATE TABLE `categories` (
   `id` int(11) NOT NULL,
-  `title` varchar(255) NOT NULL
+  `title` varchar(255) NOT NULL,
+  `meta_d` varchar(255) NOT NULL,
+  `meta_k` varchar(255) NOT NULL,
+  `text` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
 -- Дамп данных таблицы `categories`
 --
 
-INSERT INTO `categories` (`id`, `title`) VALUES
-(1, 'HTML кодинг'),
-(2, 'PHP мысли'),
-(3, 'фотошоп');
+INSERT INTO `categories` (`id`, `title`, `meta_d`, `meta_k`, `text`) VALUES
+(1, 'HTML кодинг', 'Описание HTML кодинг', 'Ключи HTML кодинг', '<p>Текст для описания категории HTML кодинг</p>'),
+(2, 'PHP мысли', 'Описание PHP мысли', 'Ключи PHP мысли', '<p>Текст для описания категории PHP мысли</p>'),
+(3, 'фотошоп', 'Описание фотошоп', 'Ключи фотошоп', '<p>Текст для описания категории фотошоп</p>');
 
 -- --------------------------------------------------------
 

@@ -13,7 +13,7 @@ if(mysqli_num_rows($result2)>0){
 
     $myrow2 = mysqli_fetch_array($result2);
     do{
-    	printf("<p><a href='viev_cat.php?cat=%s'>%s</a></p>",$myrow2['id'],$myrow2['title']);
+    	printf("<p><a href='view_cat.php?cat=%s'>%s</a></p>",$myrow2['id'],$myrow2['title']);
     }
     while ($myrow2 = mysqli_fetch_array($result2));
 

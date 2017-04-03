@@ -45,19 +45,32 @@ else {
                         <?php include("blocks/left.php");?>
                         <td valign="top"><?php echo $myrow['text'];?>
                         <?php
-                            $result2 = mysqli_query($db, "SELECT description,date,author,mini_img FROM data WHERE cat='$cat'");
+                            $result = mysqli_query($db, "SELECT id,description,view,title,date,author,mini_img FROM data WHERE cat='$cat'");
 
-if (!$result2) {
+if (!$result) {
     echo "<p>Запрос на выборку данных их базы не прошел. Напишите об этом администратору. <br>Код ошибки:</p>";
     exit(mysqli_error());
 } 
-if(mysqli_num_rows($result2)>0){
+if(mysqli_num_rows($result)>0){
 
-    $myrow2 = mysqli_fetch_array($result2);
+    $myrow = mysqli_fetch_array($result);
     do {
-        printf("<div>%s</div>",$myrow2['mini_img']);
+        printf(
+            "<div class='cat_view'>
+                %s
+                <div class='cat_data'>
+                    <a href='view_posts.php?id=%s'>%s</a>
+                    <br>
+                    <p>%s</p>
+                    <span>%s</span>
+                    <span>%s</span>
+                    <p>Просмотры: %s</p>
+                </div>
+            <div class='clear'></div>
+            </div>",
+           $myrow['mini_img'],$myrow['id'],$myrow['title'],$myrow['description'],$myrow['date'],$myrow['author'],$myrow['view']);
     }
-while ($myrow2 = mysqli_fetch_array($result2));
+while ($myrow = mysqli_fetch_array($result));
 }
 else {
     echo "<p>Информация по запросу не может быть извлечена. В таблице нет записей.</p>";

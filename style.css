@@ -1,3 +1,7 @@
+.clear {
+  clear: both;
+}
+
 table
 {
 	width: 690px;
@@ -46,6 +50,30 @@ p,h1
 {
 	padding: 10px;
 }
+
+.cat_view
+{
+	margin:0 20px 20px;
+}
+
+.cat_view img{
+	float: left;
+	margin-right: 20px; 
+}
+
+.cat_data 
+{
+	overflow: hidden;
+	font-size: 14px;
+}
+
+.cat_data p
+
+{
+	margin:0;
+	padding: 0;
+}
+
 
 .footer
 {

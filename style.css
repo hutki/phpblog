@@ -74,6 +74,23 @@ p,h1
 	padding: 0;
 }
 
+.comm_title 
+{
+	color: red;
+}
+
+.comm_wrap 
+{
+border: 1px solid #dfdfdf;
+padding: 10px;
+margin: 0 10px 20px;
+font-size: 14px;
+}
+.comm_wrap p
+{
+	padding: 0;
+	margin: 0 0 10px;
+}
 
 .footer
 {

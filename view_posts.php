@@ -87,13 +87,14 @@ else {
                   <p><label>Ваше имя:</label>
                    <input type="text" name="Author" size="30" maxlength="40"></p>
                    <p><label>Текст комментария: <br><textarea name="text" cols="33" rows="4"></textarea></label></p>
+                    <input type="hidden" name="id" value="<?php echo $id; ?>">
+                   
+                    <p>Введите сумму чисел с картинки</p>
+                    <p><img src="<?php echo $myrow4['img']; ?>"><input type="text" name="pr" size="5" maxlength="5" style="margin-top: 7px;vertical-align: top;"></p>
                     <p>
-                    
+                   
                       <button type="submit" name="sub_com" value="Комментировать">Комментрировать</button>
                     </p>
-                    <p>Введите сумму чисел с картинки</p>
-                    <p><img src="<?php echo $myrow4['img'] ?>"><input type="text" name="pr" size="5" maxlength="5" style="margin-top: 7px;vertical-align: top;"></p>
-                   
 
                 </form>
 

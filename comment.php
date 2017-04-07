@@ -10,7 +10,7 @@ if (isset($_POST['pr'])) {
 	$pr = $_POST['pr'];
 }
 if (isset($_POST['sub_com'])) {
-	$sub_comr = $_POST['sub_com'];
+	$sub_com = $_POST['sub_com'];
 }
 if (isset($_POST['id'])) {
 	$id = $_POST['id'];
@@ -30,8 +30,30 @@ else {
 	$text = '';
 }
 if (empty($author) or empty($text)) {
-	exit("<p>Вы ввели не всю информацию, вернитесь назад и заполните все поля.<br><button type='button' name='back' onclick='javascript:self.back();'>Вернуться назад<button></p>");
+	exit("<p>Вы ввели не всю информацию, вернитесь назад и заполните все поля.<br><button type='button' name='back' onclick='javascript:history.back();'>Вернуться назад</button></p>");
 }
+
+$author = stripcslashes($author);
+$text = stripcslashes($text);
+$author = htmlspecialchars($author);
+$text = htmlspecialchars($text);
+
+
+$result = mysqli_query ($db, "SELECT sum FROM comments_setting");
+$myrow = mysqli_fetch_array ($result);
+
+if ($pr == $myrow['sum']) {
+	date_default_timezone_set('Europe/Minsk');
+	$date = date("Y-m-d");
+$result2 = mysqli_query ($db, "INSERT INTO comments (post,author,text,date) VALUES ('$id','$author','$text','$date')");
+
+	
+} 
+else {
+	exit("<p>Вы ввели не верную сумму с картинки на предыдущей странице.<br><button type='button' name='back' onclick='javascript:history.back();'>Вернуться назад</button></p>");
+}
+
+
 
 
 

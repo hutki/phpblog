@@ -85,7 +85,7 @@ else {
                 <p class='comm_title'> Добавить Ваш комментарий</p>
                 <form method="post" action="comment.php" name="form_com">
                   <p><label>Ваше имя:</label>
-                   <input type="text" name="Author" size="30" maxlength="40"></p>
+                   <input type="text" name="author" size="30" maxlength="40"></p>
                    <p><label>Текст комментария: <br><textarea name="text" cols="33" rows="4"></textarea></label></p>
                     <input type="hidden" name="id" value="<?php echo $id; ?>">
                    

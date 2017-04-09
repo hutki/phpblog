@@ -46,8 +46,18 @@ if ($pr == $myrow['sum']) {
 	date_default_timezone_set('Europe/Minsk');
 	$date = date("Y-m-d");
 $result2 = mysqli_query ($db, "INSERT INTO comments (post,author,text,date) VALUES ('$id','$author','$text','$date')");
-
-	
+	$addres = "xampp@text.com";
+	$subject = "Новый коммент в блоге";
+	$result3 = mysqli_query($db,"SELECT title FROM data WHERE id='$id'");
+	$myrow3 = mysqli_fetch_array ($result3);
+	$post_title = $myrow3["title"];
+	$messege = "Появился комментарий к заметке - ".$post_title."\n Комментарий добавила: ".$author."\n Текст комментария ".$text."\n Ссылка на заметку http://phpblog.loc/view_posts.php?id=".$id."";
+	mail($addres,$subject,$messege,"Content-type:text/plain");
+	//перенаправление обратно на страницу
+	echo "<html>
+	<head><meta http-equiv='Refresh' content='0; URL=view_posts.php?id=$id'</head>
+	</html>";
+	exit();
 } 
 else {
 	exit("<p>Вы ввели не верную сумму с картинки на предыдущей странице.<br><button type='button' name='back' onclick='javascript:history.back();'>Вернуться назад</button></p>");
@@ -65,3 +75,4 @@ else {
 }
 
 ?>
+

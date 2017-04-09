@@ -42,7 +42,6 @@ else {
                 </table>
 	    	</td>
     	</tr>
-    	
 	    	<?php include("blocks/footer.php"); ?>
     	
     </table>

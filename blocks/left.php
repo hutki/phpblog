@@ -69,5 +69,36 @@ else {
     exit();
 }
 ?>
+<div class="nav_title">Блоги друзей</div>
+<?php
+        $result5 = mysqli_query($db, "SELECT title,link FROM frends");
 
+   if (!$result5) {
+    echo "<p>Запрос на выборку данных их базы не прошел. Напишите об этом администратору. <br>Код ошибки:</p>";
+    exit(mysqli_error());
+} 
+if(mysqli_num_rows($result5)>0){
+
+    $myrow5 = mysqli_fetch_array($result5);
+   do{
+        printf("<p><a href='%s'target='_blank'>%s</a></p>",$myrow5['link'],$myrow5['title']);
+    }
+    while ($myrow5 = mysqli_fetch_array($result5));
+
+}
+else {
+    echo "<p>Информация по запросу не может быть извлечена. В таблице нет записей.</p>";
+    exit();
+}
+?>
+<div class="nav_title">Поиск</div>
+<form action="view_search.php" method="post" name="form_s">
+  <p>Поисковый запрос должен быть не менее 4-х символов.</p>
+  <p><input type="text" name="search" size="25" maxlength="40" >
+<br>
+<button type="submit" name="submit_s" >Искать</button>
+  </p>
+
+
+</form>
 </td>

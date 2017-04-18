@@ -10,6 +10,10 @@ table
 {
 	border:1px solid #000;
 }
+.v_align
+{
+	vertical-align: top;
+}
 .header
 {
 	width: 690px;
@@ -33,8 +37,9 @@ table
 }
 
 .left p{
-	border-bottom: 1px solid gray;
+	border-bottom: 1px solid #dfdfdf;
 	margin:0;
+	padding:10px 20px 5px; 
 }
 
 .nav_title

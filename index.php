@@ -36,7 +36,7 @@ else {
 	    		<table width="100%" border="0" cellpadding="0" cellspacing="0">
                     <tr>
                         <?php include("blocks/left.php"); ?>
-                        <td><? echo $myrow['text'];?></td>
+                        <td class="v_align"><? echo $myrow['text'];?></td>
                     </tr>
 
                 </table>
